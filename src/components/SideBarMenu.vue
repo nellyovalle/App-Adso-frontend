@@ -17,6 +17,9 @@
             <el-menu-item index="personas">Personas</el-menu-item>
             <el-menu-item index="cargos">Cargos</el-menu-item>
             <el-menu-item index="pais">Paises</el-menu-item>
+            <el-menu-item index="cargos">Clientes</el-menu-item>
+            <el-menu-item index="pais">Productos </el-menu-item>
+            
           </el-sub-menu>
 
         </el-menu>
